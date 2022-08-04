@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d9dcc15-2a5c-4501-8523-d0c93e03f9ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashSetEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bingo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +26,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2CFH2HRrAIxnxuzx9LgoH4DZWB3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,37 +46,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HaseSetEx3">
-    <configuration name="ArraysEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysEx" />
+  <component name="RunManager" selected="Application.TreeMapEx1">
+    <configuration name="AsciiPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AsciiPrint" />
       <module name="java_jungsuk____" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example" />
+    <configuration name="HashMapEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMapEx1" />
       <module name="java_jungsuk____" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HaseSetEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HaseSetEx3" />
+    <configuration name="TreeMapEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreeMapEx1" />
       <module name="java_jungsuk____" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashSetEx1" />
+    <configuration name="TreeSetEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreeSetEx2" />
       <module name="java_jungsuk____" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetLotto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashSetLotto" />
+    <configuration name="TreeSetLotto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreeSetLotto" />
       <module name="java_jungsuk____" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HaseSetEx3" />
-        <item itemvalue="Application.HashSetLotto" />
-        <item itemvalue="Application.HashSetEx1" />
-        <item itemvalue="Application.ArraysEx" />
-        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.TreeMapEx1" />
+        <item itemvalue="Application.HashMapEx1" />
+        <item itemvalue="Application.TreeSetEx2" />
+        <item itemvalue="Application.AsciiPrint" />
+        <item itemvalue="Application.TreeSetLotto" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +105,8 @@
       <workItem from="1658555792820" duration="2759000" />
       <workItem from="1659419298000" duration="6125000" />
       <workItem from="1659426309349" duration="115000" />
-      <workItem from="1659426455452" duration="310000" />
+      <workItem from="1659426455452" duration="757000" />
+      <workItem from="1659588055577" duration="5894000" />
     </task>
     <servers />
   </component>
