@@ -46,13 +46,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ThreadEx8">
-    <configuration name="ThreadEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Thread.ThreadEx2" />
+  <component name="RunManager" selected="Application.IOEx1">
+    <configuration name="IOEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InputOutput.IOEx1" />
       <module name="java_jungsuk____" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Thread.*" />
+          <option name="PATTERN" value="InputOutput.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Thread.ThreadEx4" />
+    <configuration name="ThreadEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.ThreadEx2" />
       <module name="java_jungsuk____" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IOEx1" />
         <item itemvalue="Application.ThreadEx8" />
         <item itemvalue="Application.ThreadEx2" />
         <item itemvalue="Application.ThreadEx6" />
         <item itemvalue="Application.ThreadEx5" />
-        <item itemvalue="Application.ThreadEx4" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +142,7 @@
       <workItem from="1659687882029" duration="23000" />
       <workItem from="1659853846264" duration="2506000" />
       <workItem from="1659863646132" duration="5975000" />
-      <workItem from="1660112337222" duration="2994000" />
+      <workItem from="1660112337222" duration="5148000" />
     </task>
     <servers />
   </component>
