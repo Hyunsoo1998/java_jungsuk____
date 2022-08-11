@@ -46,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IOEx1">
+  <component name="RunManager" selected="Application.ThreadEx9">
     <configuration name="IOEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InputOutput.IOEx1" />
       <module name="java_jungsuk____" />
@@ -62,19 +62,6 @@
     </configuration>
     <configuration name="ThreadEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Thread.ThreadEx2" />
-      <module name="java_jungsuk____" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadEx5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Thread.ThreadEx5" />
       <module name="java_jungsuk____" />
       <extension name="coverage">
         <pattern>
@@ -112,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadEx9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.ThreadEx9" />
+      <module name="java_jungsuk____" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadEx9" />
         <item itemvalue="Application.IOEx1" />
         <item itemvalue="Application.ThreadEx8" />
         <item itemvalue="Application.ThreadEx2" />
         <item itemvalue="Application.ThreadEx6" />
-        <item itemvalue="Application.ThreadEx5" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +142,8 @@
       <workItem from="1659687882029" duration="23000" />
       <workItem from="1659853846264" duration="2506000" />
       <workItem from="1659863646132" duration="5975000" />
-      <workItem from="1660112337222" duration="5148000" />
+      <workItem from="1660112337222" duration="5747000" />
+      <workItem from="1660211922756" duration="341000" />
     </task>
     <servers />
   </component>
