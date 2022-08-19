@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8d9dcc15-2a5c-4501-8523-d0c93e03f9ec" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lamda_Stream/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lamda_Stream/Outer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -46,13 +48,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ThreadEx14">
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Thread.Example" />
+  <component name="RunManager" selected="Application.LamdaEx2">
+    <configuration name="LambdaEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lamda_Stream.LambdaEx1" />
       <module name="java_jungsuk____" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Thread.*" />
+          <option name="PATTERN" value="Lamda_Stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LamdaEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lamda_Stream.LamdaEx2" />
+      <module name="java_jungsuk____" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lamda_Stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,26 +114,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadEx9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Thread.ThreadEx9" />
-      <module name="java_jungsuk____" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LamdaEx2" />
+        <item itemvalue="Application.LambdaEx1" />
         <item itemvalue="Application.ThreadEx14" />
         <item itemvalue="Application.ThreadEx13" />
         <item itemvalue="Application.ThreadEx12" />
-        <item itemvalue="Application.Example" />
-        <item itemvalue="Application.ThreadEx9" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +147,8 @@
       <workItem from="1660112337222" duration="5747000" />
       <workItem from="1660211922756" duration="2509000" />
       <workItem from="1660219219609" duration="299000" />
-      <workItem from="1660627206937" duration="2408000" />
+      <workItem from="1660627206937" duration="2552000" />
+      <workItem from="1660886403236" duration="2787000" />
     </task>
     <servers />
   </component>
