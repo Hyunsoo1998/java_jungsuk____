@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8d9dcc15-2a5c-4501-8523-d0c93e03f9ec" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lamda_Stream/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lamda_Stream/Outer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +36,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Project.color&quot;: &quot;492a0f&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -148,7 +148,9 @@
       <workItem from="1660211922756" duration="2509000" />
       <workItem from="1660219219609" duration="299000" />
       <workItem from="1660627206937" duration="2552000" />
-      <workItem from="1660886403236" duration="2787000" />
+      <workItem from="1660886403236" duration="3379000" />
+      <workItem from="1661413755559" duration="566000" />
+      <workItem from="1661927502797" duration="915000" />
     </task>
     <servers />
   </component>
