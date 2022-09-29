@@ -12,6 +12,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -25,6 +28,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2CFH2HRrAIxnxuzx9LgoH4DZWB3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -151,6 +157,7 @@
       <workItem from="1660886403236" duration="3379000" />
       <workItem from="1661413755559" duration="566000" />
       <workItem from="1661927502797" duration="915000" />
+      <workItem from="1664417661167" duration="744000" />
     </task>
     <servers />
   </component>
